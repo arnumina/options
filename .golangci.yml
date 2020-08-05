@@ -3,3 +3,6 @@
 
 linters:
   enable-all: true
+  disable:
+    - gomnd
+    - gosec
